@@ -1,0 +1,6 @@
+npm install --save nanoid
+
+sync-setting token
+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
+
+ID:c4e56419f142326cbb7ebad2be3a49da
